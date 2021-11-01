@@ -2,7 +2,7 @@
 cmd - return : open -a Terminal ~
 
 # screenshot
-shift + cmd - return : screencapture -x ~/Downloads/shot.jpg
+shift + cmd - return : screencapture -x ~/Downloads/shot.png
 shift + alt - return : screencapture -xc
 
 # open finder 
